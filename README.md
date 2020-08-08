@@ -62,15 +62,23 @@ GET API :
 
 /users : Fetch all the users present in database
 
-```
-
+curl --location --request GET 'http://localhost:8080/users' \
+--header 'Content-Type: application/json' \
+--data-raw ''
 Post API 
+
+```
 
    ```bash
    
    /create : Create an user and stored in mysql
    
+
+curl --location --request POST 'http://localhost:8080/addMember' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+ "memberID": 5536,
+ "name": "ASHISH Singh",
+ "emailId": "Ashishsdet88@gmail.com"
+}'
    ```
-
-
-
