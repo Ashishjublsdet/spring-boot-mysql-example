@@ -10,11 +10,11 @@ Create project from https://start.spring.io
 
 Add dependency :
 
-Spring Boot DevTools DEVELOPER TOOLS
-Spring Data JPA SQL
-Spring Web WEB
-MySQL Driver SQL
-Spring Security SECURITY
+Spring Boot DevTools DEVELOPER TOOLS,
+Spring Data JPA SQL,
+Spring Web WEB,
+MySQL Driver SQL,
+Spring Security SECURITY,
 jakarta validation
 
 ## Steps to Setup
@@ -31,7 +31,7 @@ git clone
 
 ```bash
 
-create database notes_app
+create database yourdatabaseName
 
 ```
 
