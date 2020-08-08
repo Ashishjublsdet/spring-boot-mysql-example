@@ -1,8 +1,6 @@
-# spring-boot-mysql-example
+# Tech : Spring Boot, MySQL, JPA, Hibernate Rest
 
-# Spring Boot, MySQL, JPA, Hibernate Rest
-
-Build Restful CRUD API using Spring boot
+Spring Boot with mysql CRUD API
 
 ## Requirements
 
