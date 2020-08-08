@@ -4,11 +4,15 @@ Spring Boot with mysql CRUD API
 
 ## Requirements
 
-# Install Mysql
-brew install mysql
-brew services start mysql
+### Install Mysql
 
-#Create project from https://start.spring.io
+```bash
+brew install mysql
+
+brew services start mysql
+```
+
+###Create project from https://start.spring.io
 
 Add dependency :
 
