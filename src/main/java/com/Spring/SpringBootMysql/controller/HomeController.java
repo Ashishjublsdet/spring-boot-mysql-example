@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/")
-public class IndexController {
+public class HomeController {
 
     @GetMapping
     public String welComeMessage() {

@@ -31,7 +31,7 @@ git clone
 
 ```bash
 
-create database notes_app
+create database yourdatabaseName
 
 ```
 
@@ -56,9 +56,21 @@ The app will start running at <http://localhost:8080>.
 
 ## Rest APIs
 
+GET API :
 
+```bash
 
+/users : Fetch all the users present in database
+
+```
+
+Post API 
+
+   ```bash
    
+   /create : Create an user and stored in mysql
+   
+   ```
 
 
 
