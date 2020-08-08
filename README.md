@@ -65,9 +65,11 @@ GET API :
 curl --location --request GET 'http://localhost:8080/users' \
 --header 'Content-Type: application/json' \
 --data-raw ''
+```
+
 Post API 
 
-```
+
 
    ```bash
    
