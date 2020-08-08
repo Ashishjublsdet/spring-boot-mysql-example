@@ -71,7 +71,7 @@ Post API
 
    ```bash
    
-   /create : Create an user and stored in mysql
+   /addMember : Create an user and stored in mysql
    
 
 curl --location --request POST 'http://localhost:8080/addMember' \
