@@ -1,4 +1,4 @@
-# Mysql CRUD API using Spring Boot, MySQL, JPA, Hibernate Rest
+# Mysql CURD API using Spring Boot, MySQL, JPA, Hibernate Rest
 
 
 
