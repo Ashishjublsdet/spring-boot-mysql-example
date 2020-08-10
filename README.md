@@ -1,6 +1,6 @@
-# Tech : Spring Boot, MySQL, JPA, Hibernate Rest
+# Mysql CRUD API using Spring Boot, MySQL, JPA, Hibernate Rest
 
-Spring Boot with mysql CRUD API
+
 
 ## Requirements
 
